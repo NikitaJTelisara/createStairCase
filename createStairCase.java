@@ -1,9 +1,3 @@
-/**
- * Created with IntelliJ IDEA.
- * Date: 7/19/16
- * Time: 9:33 PM
- * To change this template use File | Settings | File Templates.
- */
 
 import java.util.ArrayList;
 import java.util.Stack;
