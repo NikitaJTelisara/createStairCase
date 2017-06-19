@@ -16,6 +16,28 @@ public class createStairCase {
             System.out.print("\n");
         }
     }
+    
+   /* reverse stair
+   public static void reverseStair(int n) {
+        int k = 0;
+        for (int i = 0;i<n;i++){
+            k=0;
+            for (int j = i; j <n-1; j++) {
+                System.out.print(" ");
+                k++;
+            }
+            while (k < n) {
+                System.out.print("#");
+                k++;
+            }
+            System.out.print("\n");
+        }
+    } 
+    o/p
+   #
+  ##
+ ###
+#### */
 }
 
 /* output
